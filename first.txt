@@ -1,2 +1,8 @@
+﻿<<<<<<< HEAD
 ﻿
-helworldo 
+helworldo
+创建第一个分支 
+=======
+1.这是个测试文件
+hello 
+>>>>>>> parent of 30d7961... ThirdUp
